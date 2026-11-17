@@ -47,11 +47,11 @@ The raw CSV files are not included in this repository. Download them from Kaggle
 
 **Page 1: Sales Overview**
 
-![Sales Overview](images/dashboard_overview.png)
+![Sales Overview](dashboard_overview.png)
 
 **Page 2: Delivery and Reviews**
 
-![Delivery and Reviews](images/dashboard_delivery.png)
+![Delivery and Reviews](dashboard_delivery.png)
 
 ## Project Structure
 
